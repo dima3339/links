@@ -47,3 +47,38 @@ textarea,
 select {
   font: inherit;
 }
+
+a {
+  text-decoration: none;
+}
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 400;
+  letter-spacing: 1px;
+  background-color: #fff;
+}
+
+.wrap {
+  max-width: 1220px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.top {
+  padding-top: 10px;
+}
+
+.link {
+  color: #333;
+  transition: color 0.1s ease;
+}
+
+.link:hover {
+  color: #000;
+  font-weight: 600;
+  border-bottom: solid 1px;
+}
