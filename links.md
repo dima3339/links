@@ -15,7 +15,7 @@
 - https://habr.com/ru/post/483634/ - cвойства Min и Max width/height в CSS
 - https://habr.com/ru/post/436610/ - rак CSS специфичность работает в браузере
 
-# Разное
+### Разное
 - https://flexboxfroggy.com/#ru - игра по flexbox
 - https://icomoon.io/app/#/select - библиотека логотипов
 - https://validator.w3.org/nu/ - валидатор проверки
