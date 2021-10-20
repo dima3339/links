@@ -1,19 +1,14 @@
 # html
 
-БЭМ методология
-теги html
-правила оформления HTML-кода
-организация отступов в вёрстке
-как работать с тегами заголовков
-вложености
-семантические теги
-список типов полей input
-плавный скролл после нажатия
-js
-скрипт с сервера google на jquery
-slick slider [.js]
-MixItUp
-fancy box
+- https://ru.bem.info/methodology/ - БЭМ методология
+- https://webref.ru/html/ - теги html
+- https://netology-university.bitbucket.io/codestyle/html/ - правила оформления HTML-кода
+- https://habr.com/ru/post/340420/ - организация отступов в вёрстке
+- https://www.notion.so/a80a484a99e0409b92ec1d6fa539dd46 - как работать с тегами заголовков
+- https://docs.emmet.io/abbreviations/syntax/ - вложености
+- https://w3schoolsrus.github.io/html/html5_semantic_elements.html#gsc.tab=0 - семантические теги
+- https://meliorem.ru/frontend/html/spisok-tipov-polej-input/ - список типов полей input
+- https://webcomplex.com.ua/jquery/plavnyj-skroll-posle-nazhatiya-na-yakornuyu-ssylku.html - плавный скролл после нажатия
 
 # css
 
@@ -31,6 +26,12 @@ fancy box
 - https://necolas.github.io/normalize.css/ - Normalize CSS
 - https://habr.com/ru/post/483634/ - cвойства Min и Max width/height в CSS
 - https://habr.com/ru/post/436610/ - rак CSS специфичность работает в браузере
+
+# js
+скрипт с сервера google на jquery
+slick slider [.js]
+MixItUp
+fancy box
 
 ## Разное
 - https://flexboxfroggy.com/#ru - игра по flexbox
