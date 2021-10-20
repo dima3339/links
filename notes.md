@@ -28,10 +28,11 @@
 - https://habr.com/ru/post/436610/ - rак CSS специфичность работает в браузере
 
 # js
-скрипт с сервера google на jquery
-slick slider [.js]
-MixItUp
-fancy box
+
+- https://developers.google.com/speed/libraries - скрипт с сервера google на jquery
+- https://kenwheeler.github.io/slick/ - slick slider
+- https://www.kunkalabs.com/mixitup/ - MixItUp
+- https://fancyapps.com/fancybox/3/ - fancy box
 
 ## Разное
 - https://flexboxfroggy.com/#ru - игра по flexbox
