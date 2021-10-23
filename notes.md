@@ -41,3 +41,4 @@
 - https://caninclude.glitch.me/ - здесь можно проверить возможность вкладывать теги друг в друга
 - https://pear-advert.ru/kontentnye-i-dekorativnye-izobrazheniya-osnovnye-otlichiya - контентные и декоративные изображения
 - https://basicweb.ru/css/css_adaptive_p1.php - адаптивная верстка (теория)
+- 1
